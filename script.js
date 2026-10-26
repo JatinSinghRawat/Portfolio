@@ -1,3 +1,4 @@
+//some new changes
 const phrases = ["Hi, I am Jatin Rawat", "Welcome to my website"];
 const typewriter = document.querySelector("#typewriter");
 const menuToggle = document.querySelector(".menu-toggle");
